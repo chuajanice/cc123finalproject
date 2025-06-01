@@ -44,10 +44,11 @@ Average: <average>
 
 4️⃣ All changes are saved directly to the txt file.
 
-Enjoy managing your student 
+Enjoy managing your student records!
 
-https://github.com/user-attachments/assets/98a7a21b-4c5a-4221-b58f-b91f71e0d0ce
 
-records!
 
+
+
+https://github.com/user-attachments/assets/7bb24a29-c5de-4001-a9e0-5c706f629cc4
 
