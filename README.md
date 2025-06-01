@@ -46,6 +46,8 @@ Average: <average>
 
 Enjoy managing your student records!
 
+Here's a demo:
+
 
 
 
