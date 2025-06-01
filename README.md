@@ -2,6 +2,7 @@
 Student Record System
 
 This is a C program that lets you:
+
 ✅ Add student records  
 ✅ Edit existing student records  
 ✅ Delete student records  
